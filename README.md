@@ -52,6 +52,21 @@ lat,lng
 43.2965,5.3698
 ```
 
+## Données d'exemple
+
+Un fichier sample.csv est fourni avec le projet. Il contient 15 points représentant différentes villes européennes :
+
+Paris, Lyon, Marseille, Toulouse, Nantes, Lille, Strasbourg, Nice (France)
+Bruxelles (Belgique)
+Düsseldorf (Allemagne)
+Vienne (Autriche)
+Milan (Italie)
+Genève (Suisse)
+Madrid (Espagne)
+Londres (Royaume-Uni)
+
+Ce fichier peut être utilisé pour tester l'application et comprendre le format attendu des données.
+
 ## Configuration de la Heatmap
 
 La heatmap est configurée avec les paramètres suivants :
